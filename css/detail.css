@@ -1,0 +1,23 @@
+.content {
+    width:700px;
+    margin:auto;
+    margin-bottom:50px;
+    background-color:white;
+    padding-top:5px;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+.content img {
+    padding:5px;
+    float:right;
+}
+.content:first-child {
+    clear:right;
+}
+
+.title {
+    width:700px;
+    margin:auto;
+    text-align:center;
+}

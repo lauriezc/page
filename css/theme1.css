@@ -1,0 +1,29 @@
+body {
+    background-color:#fffff9;
+}
+
+.container {
+    //background-color:#bafaff;
+}
+
+.header {
+    //background-color:#abbbc3;
+    margin:0px;
+}
+.head-pic {
+    padding:10px;
+}
+.head-pic img{
+    opacity:1;
+}
+.banner ul li a {
+    color:black;
+
+}
+.banner ul li a:hover {
+    color: gray;
+    border-bottom: 1px dotted gray;
+}
+.banner .active a {
+    border-bottom: 1px dotted black;
+}
